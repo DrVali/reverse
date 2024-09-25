@@ -1,0 +1,67 @@
+
+*
+{
+  
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+  text-decoration: none;
+  border: none;
+}
+
+html{
+  font-size: 62.5%;
+
+}
+ body{
+    
+   font-size : 2rem;
+   padding:15px;
+ }
+
+ input {
+	 
+	 height: 30px;
+	 margin: 3px;
+	 padding: 10px;
+ }
+ 
+ .text{
+   display:flex;
+text-align:center;
+justify-content:center;   
+ }
+ 
+.btn{
+	background-color: #60ff00; 
+	font-weight: bold;
+	width:100%;
+ }
+
+.reverse-box{
+	
+	justify-content:center;
+	align-content:center;
+	border:1px solid gray;
+	padding: 10px;
+	margin:30px 50px;
+	min-height:250px;
+}
+
+span {
+	margin: 5px 10px;
+	
+}
+.text_box{
+	border:2px solid #000;
+	height:40px;
+	width:20%;
+	color:black;
+	padding:5px;
+}
+
+ .reverse___text{
+	margin:15px auto;
+	text-align:center;
+}
